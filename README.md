@@ -39,7 +39,7 @@ Data were trained with 800 epoch:
 
 ### Result
 <p align="center">
-  <img src="https://github.com/snaffisah/Covid19-New-Cases-Analysis-LSTM/blob/main/picture/actual_vs_predict.png">
+  <img src="https://github.com/Ghost0705/Covid19-New-Cases-LSTM/blob/main/picture/actual_vs_predict.png">
 </p>
 
 After the deployment of model mean absolute percentage error able to achieve 0.1% and the model is good enough to be used for future new cases prediction and goverment can take the necessary precaution steps to avoid it from spreading.
