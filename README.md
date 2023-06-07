@@ -25,16 +25,20 @@ To predict new cases, we only focus on 'cases_new' column. There are few missing
 ### Deep learning model with LSTM layer
 A sequential model was created with 3 LSTM layer, 3 Dropout layer, 1 Dense layer:
 <p align="center">
-  <img src="https://github.com/Ghost0705/Covid19-New-Cases-Analysis-LSTM/blob/main/picture/model_architecture.png">
+  <img src="https://github.com/Ghost0705/Covid19-New-Cases-LSTM/blob/main/picture/model_architecture.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Ghost0705/Covid19-New-Cases-Analysis-LSTM/blob/main/picture/model_flow.png">
+  <img src="https://github.com/Ghost0705/Covid19-New-Cases-LSTM/blob/main/picture/model_flow.png">
 </p>
 
 Data were trained with 800 epoch:
 <p align="center">
-  <img src="https://github.com/Ghost0705/Covid19-New-Cases-Analysis-LSTM/blob/main/picture/model_performance.png">
+  <img src="https://github.com/Ghost0705/Covid19-New-Cases-LSTM/blob/main/picture/model_performance.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ghost0705/Covid19-New-Cases-LSTM/blob/main/picture/loss_graph.png">
 </p>
 
 ### Result
